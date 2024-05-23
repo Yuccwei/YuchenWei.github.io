@@ -15,9 +15,9 @@ citation: 'Konstantin Matveev, Yuchen Wei. (2023). &quot;Factorization of certai
 .&quot; <i>arXiv</i> .'
 ---
 
-We find and prove a factorization formula for certain Macdonald Littlewood-Richardson coefficients \\(c^{\nu}_{\lambda\mu}(q,t)\\). 
+We find and prove a factorization formula for certain Macdonald Littlewood-Richardson coefficients \\(c^{\nu}_{\lambda\mu}(q,t)\\).
 
-Namely, we consider the case that the Kostka number \\(K_{\mu, \nu-\lambda}\\) is 1. This settles a particular case of a more general conjecture of Richard Stanley. 
+Namely, we consider the case that the Kostka number \\(K_{\mu, \nu-\lambda}\\) is 1. This settles a particular case of a more general conjecture of Richard Stanley.
 
 This conjecture proposes that a factorization formula exists whenever the corresponding regular Littlewood-Richardson coefficient \\(c^{\nu}_{\lambda\mu}\\) is 1.
 
