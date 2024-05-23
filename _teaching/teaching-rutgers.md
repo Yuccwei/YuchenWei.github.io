@@ -8,7 +8,7 @@ date: 2020-01-01
 location: "New Brunswick, U.S."
 ---
 
-My teaching duties include designing course materials, leading workshops and recitations, and delivering lectures, etc.
+My teaching duties include designing course materials, leading workshops and recitations, and delivering lectures.
 
 <h2 id="header-two">Linear Optimization (2020 Fall, 2022 Spring)</h2>
 
