@@ -1,6 +1,6 @@
 ---
 title: "A study of the relationship between the sellout and offtake of Tylenol"
-excerpt: "Linear regressions and time series<br/><img src='/images/line_plot.png'>"
+excerpt: "Linear regressions and time series<br/><img src='/YuchenWei.github.io/images/line_plot.png'>"
 collection: portfolio
 ---
 
