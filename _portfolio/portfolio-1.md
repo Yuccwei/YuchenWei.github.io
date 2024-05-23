@@ -8,4 +8,4 @@ Conducted a comprehensive analysis of Johnson & Johnson's datasets, utilizing ad
 
 Explored and quantified the relationship between the offtake and sellout of medicines, providing actionable insights for strategic planning and optimization.
 
-<img src="/images/linear_regression.png">
+<img src="/YuchenWei.github.io/images/linear_regression.png">
