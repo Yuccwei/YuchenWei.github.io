@@ -26,7 +26,7 @@ Work experience
 
 * Spring 2021: Research Assistant
   * Rutgers University
-  * Duties included: Doing quantitative research
+  * Duties included: Doing quantitative research.
   * Supervisor: Professor Phạm Hữu Tiệp
   
 Skills
