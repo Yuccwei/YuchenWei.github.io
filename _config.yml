@@ -111,12 +111,6 @@ atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
-markdown: kramdown
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter_opts:
-    disable: true
-
 
 # SEO Related
 google_site_verification :
