@@ -11,25 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in mathematics, Rutgers University, 2025 (expected)
+* Ph.D. in mathematics, Rutgers University, 2025 (expected)
 * B.S. in mathematics and applied mathematics, Beijing Normal University, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024: Data Scientist Intern
+  * KPMG consulting
+  * Duties includes: Doing quantitative research/Building predictive model using machine learning.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2024: Data Scientist Intern
+  * NJ TRANSIT
+  * Duties included: Building statistical machine learning model.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2021: Research Assistant
+  * Rutgers University
+  * Duties included: Doing quantitative research
+  * Supervisor: Professor Phạm Hữu Tiệp
   
 Skills
 ======
@@ -41,6 +39,12 @@ Skills
 * R
 * Power BI
 * Tableau
+* GPT
+* Rust
+* C++
+* JAVA
+* Mathematica
+* Matlab
 
 Publications
 ======
@@ -60,6 +64,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Volunteer
 ======
-* Currently signed in to 43 different slack teams
+* Volunteered at Tsinghua University. Assisted the organization of the 8th International Congress of Chinese Mathematicians.
