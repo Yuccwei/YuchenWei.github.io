@@ -1,6 +1,6 @@
 ---
 title: "A study of the relationship between the sellout and offtake of Tylenol"
-excerpt: "Linear regressions and time series<br/><img src='/images/line_plot.png'>"
+excerpt: "Linear regressions and time series<br/><img src="/images/line_plot.png">"
 collection: portfolio
 ---
 
@@ -8,4 +8,4 @@ Conducted a comprehensive analysis of Johnson & Johnson's datasets, utilizing ad
 
 Explored and quantified the relationship between the offtake and sellout of medicines, providing actionable insights for strategic planning and optimization.
 
-<img src='/images/linear_regression.png'>
+<img src="/images/linear_regression.png">
