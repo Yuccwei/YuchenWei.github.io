@@ -8,6 +8,7 @@ date: 2020-01-01
 location: "New Brunswick, U.S."
 ---
 
+======
 <h3 id="header-two">Linear Optimization (2020 Fall, 2022 Spring)</h3>
 
 <h3 id="header-two">Introduction to Mathematical Probability (2023 Fall)</h3>
