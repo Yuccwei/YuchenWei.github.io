@@ -2,7 +2,7 @@
 title: "Factorization of certain Macdonald Littlewood-Richardson coefficients"
 collection: publications
 permalink: /publication/2023-01-16-Factorization_of_certain_Macdonald_Littlewood-Richardson_coefficients
-excerpt: 'We find and prove a factorization formula for certain Macdonald Littlewood-Richardson coefficients \(c^{\nu}_{\lambda\mu}(q,t)\). Namely, we consider the case that the Kostka number \(K_{\mu, \nu-\lambda}\) is 1. This settles a particular case of a more general conjecture of Richard Stanley. This conjecture proposes that a factorization formula exists whenever the corresponding regular Littlewood-Richardson coefficient \(c^{\nu}_{\lambda\mu}\) is 1.'
+excerpt: 'We find and prove a factorization formula for certain Macdonald Littlewood-Richardson coefficients $c^{\nu}_{\lambda\mu}(q,t)$. Namely, we consider the case that the Kostka number $K_{\mu, \nu-\lambda}$ is 1. This settles a particular case of a more general conjecture of Richard Stanley. This conjecture proposes that a factorization formula exists whenever the corresponding regular Littlewood-Richardson coefficient $c^{\nu}_{\lambda\mu}$ is 1.'
 date: 2023-01-16
 venue: 'arXiv'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
