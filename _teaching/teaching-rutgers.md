@@ -8,25 +8,23 @@ date: 2020-01-01
 location: "New Brunswick, U.S."
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Linear Optimization (2020 Fall, 2022 Spring)
+<h3 id="header-three">Linear Optimization (2020 Fall, 2022 Spring)</h3>
 ======
 
-Introduction to Mathematical Probability (2023 Fall)
+<h3 id="header-three">Introduction to Mathematical Probability (2023 Fall)</h3>
 ======
 
-Introduction to Linear Algebra (2022 Spring)
+<h3 id="header-three">Introduction to Linear Algebra (2022 Spring)</h3>
 ======
 
-Introduction to Real Analysis (2021 Fall)
+<h3 id="header-three">Introduction to Real Analysis (2021 Fall)</h3>
 ======
 
-Calculus I for the Life and Social Sciences (2020 Summer, 2023 Summer)
+<h3 id="header-three">Calculus I for the Life and Social Sciences (2020 Summer, 2023 Summer)</h3>
 ======
 
-Calculus I for Math and Physical Sciences (2022 Fall)
+<h3 id="header-three">Calculus I for Math and Physical Sciences (2022 Fall)</h3>
 ======
 
-Hornors Calculus II (2023 Spring)
+<h3 id="header-three">Hornors Calculus II (2023 Spring)</h3>
 ======
