@@ -1,7 +1,7 @@
 ---
 title: 'How to test a normal distribution'
 date: 2024-05-30
-permalink: /_posts/Statistics_testing
+permalink: /_posts/Statistics-testing
 tags:
   - cool posts
   - category1
