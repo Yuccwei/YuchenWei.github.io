@@ -8,16 +8,5 @@ tags:
   - future
 ---
 
-<!--
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
--->
 
 Still coming up!!
