@@ -13,20 +13,25 @@ Education
 ======
 * Ph.D. in mathematics, Rutgers University, 2025 (expected)
 * B.S. in mathematics and applied mathematics, Beijing Normal University, 2019
+* High School, High School Affiliated to Renmin University of China, 2014
 
 Work experience
 ======
-* Spring 2024: Data Scientist Intern
-  * KPMG consulting
+* Jan. 2024 - Feb. 2024: Data Scientist
+  * KPMG
   * Duties includes: Doing quantitative research/Building predictive model using machine learning.
 
-* Summer 2024: Data Scientist Intern
+* Jun. 2024 - Aug. 2024: Data Scientist
   * NJ TRANSIT
   * Duties included: Building statistical machine learning model.
 
+* May 2024 - now: Quantitative Researcher
+  * CANTABILE DIGITAL (hedge fund)
+  * Duties included: Developing quantitative investment strategies.
+
 * Spring 2021: Research Assistant
   * Rutgers University
-  * Duties included: Doing quantitative research.
+  * Duties included: Doing research.
   * Supervisor: Professor Phạm Hữu Tiệp
   
 Skills
