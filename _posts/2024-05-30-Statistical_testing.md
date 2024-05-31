@@ -12,7 +12,7 @@ tags:
 Jarque–Bera test
 ======
 
-We can use Jarque-Bera test to test whether a distribution is normal or not. To begin, we first generate a normal distribution:
+We can use Jarque-Bera test to test whether a distribution is normal or not. To begin, we first generate a normal distribution and do the test:
 
 ```python
 import numpy as np
@@ -44,11 +44,14 @@ print("p-value:", p_value)
 The result is:
 
 Skewness: 0.09205775651647653
+
 Kurtosis: -0.051353492317578464
+
 Jarque-Bera test statistic: 1.522320971358296
+
 p-value: 0.46712402160647026
 
-For comparison, we do the test for Beta distribution \\( Beta(2, 2) \\). The code is attched below:
+For comparison, we do the test for Beta distribution \\( \text{Beta}(2, 2) \\). The code is attched below:
 
 ```python
 import numpy as np
@@ -76,6 +79,9 @@ print("p-value:", p_value)
 The output is:
 
 Skewness: -0.06877155720899528
+
 Kurtosis: -0.8898416028853444
+
 Jarque-Bera test statistic: 33.780674439556655
+
 p-value: 4.619763550202317e-08
