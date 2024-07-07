@@ -55,7 +55,7 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-Check out my [LinkedIn](https://www.linkedin.com/in/yuchen-w-bb3686114/) to connect with me.
+Check out my [LinkedIn](https://www.linkedin.com/in/yuchen-wei-bb3686114/) to connect with me.
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-HY581CGPZV"></script>
